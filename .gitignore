@@ -1,0 +1,8 @@
+.coverage
+.idea/
+**pycache**
+*ENV*/
+*env*/
+__pycache__/*
+*.egg-info/
+setup.sh
